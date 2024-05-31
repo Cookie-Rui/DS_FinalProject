@@ -17,10 +17,10 @@
 | close  | -0.038 | -0.216 | -0.976 | 0.008  | 0.004  | 0      |
 
 ## features_distriburion_plot
-![](image/features_distriburion_plot.png)
+![](images/features_distriburion_plot.png)
 
 ## targets_distriburion_plot
-![](image/targets_distriburion_plot.png)
+![](images/targets_distriburion_plot.png)
 
 ## pca_cummulative_variance_plot
-![](image/pca_cumvar_plot.png)
+![](images/pca_cumvar_plot.png)
