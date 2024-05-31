@@ -140,8 +140,8 @@ save(avg3_result, avg5_result, up3_result, up5_result, up_result,
 save(avg3_rmse_plot, avg5_rmse_plot, up3_auc_plot, up5_auc_plot, up_auc_plot,
      file="Metrics_Plots.RData")
 
-write.csv(avg3_summary, "avg3_summary.csv")
-write.csv(avg3_summary, "avg5_summary.csv")
-write.csv(avg3_summary, "up3_summary.csv")
-write.csv(avg3_summary, "up5_summary.csv")
-write.csv(avg3_summary, "up_summary.csv")
+# write.csv(avg3_summary, "avg3_summary.csv")
+# write.csv(avg5_summary, "avg5_summary.csv")
+# write.csv(up3_summary, "up3_summary.csv")
+# write.csv(up5_summary, "up5_summary.csv")
+# write.csv(up_summary, "up_summary.csv")
